@@ -1,0 +1,7 @@
+AudioPluginMicrosoftSpatializer.dll
+GpuStats.dll
+MicrosoftGeospatialDecompressionNative.dll
+openxr_loader.dll
+PlaneFinding.dll
+
+Microsoft.MixedReality.Input.dll

@@ -180,7 +180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1145582944917196436, guid: 9ffca06bacfb2a348b5a5fe7b6ccadcf, type: 3}
       propertyPath: url
-      value: 
+      value: https://blade3funcappo4jgosov5w.azurewebsites.net/api
       objectReference: {fileID: 0}
     - target: {fileID: 1145582944917196437, guid: 9ffca06bacfb2a348b5a5fe7b6ccadcf, type: 3}
       propertyPath: m_RootOrder
@@ -695,7 +695,7 @@ PrefabInstance:
     - target: {fileID: 3662538929699620729, guid: aac34a5aff86c3e43bb347f3fb39bc21, type: 3}
       propertyPath: adtConnectionInfo
       value: 
-      objectReference: {fileID: 11400000, guid: 9153f5349978066468165f1a3950f26f, type: 2}
+      objectReference: {fileID: 11400000, guid: 6d8b9ba350f2d694aa981b27e2c7e919, type: 2}
     - target: {fileID: 3662538929699620735, guid: aac34a5aff86c3e43bb347f3fb39bc21, type: 3}
       propertyPath: m_Name
       value: ADTTurbineAlertController

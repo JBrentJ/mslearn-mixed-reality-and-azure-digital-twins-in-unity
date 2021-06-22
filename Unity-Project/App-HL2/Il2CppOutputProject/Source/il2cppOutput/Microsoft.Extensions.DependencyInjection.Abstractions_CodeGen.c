@@ -1,0 +1,710 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void Microsoft.CodeAnalysis.EmbeddedAttribute::.ctor()
+extern void EmbeddedAttribute__ctor_mA55DCEDC8DCC9A8BD91DBC8414ED09096C569258 (void);
+// 0x00000002 System.Void System.Runtime.CompilerServices.NullableAttribute::.ctor(System.Byte)
+extern void NullableAttribute__ctor_m8905906A4BE7D0497E35B7ACDE516A3AE7B5F64C (void);
+// 0x00000003 System.Void System.Runtime.CompilerServices.NullableAttribute::.ctor(System.Byte[])
+extern void NullableAttribute__ctor_mB40B6295AA4F3124B6976010DA10589E626D091A (void);
+// 0x00000004 System.Void System.Runtime.CompilerServices.NullableContextAttribute::.ctor(System.Byte)
+extern void NullableContextAttribute__ctor_mE176E57C120C8789F415AAF677CD18416836391A (void);
+// 0x00000005 System.Void System.Runtime.CompilerServices.NullablePublicOnlyAttribute::.ctor(System.Boolean)
+extern void NullablePublicOnlyAttribute__ctor_m4114175037AD5184C6E65721A179A8BDA8B737B7 (void);
+// 0x00000006 System.Boolean System.SR::UsingResourceKeys()
+extern void SR_UsingResourceKeys_mB6D8168AC3FE8E6628C9ABF53B0BC95847CB056D (void);
+// 0x00000007 System.String System.SR::GetResourceString(System.String,System.String)
+extern void SR_GetResourceString_m97000FDF2658FB5A59008B560268BBC3F165C4D5 (void);
+// 0x00000008 System.String System.SR::Format(System.String,System.Object)
+extern void SR_Format_mADD68C8D2C34BBB960E93A5BEF6600FCA482811C (void);
+// 0x00000009 System.String System.SR::Format(System.String,System.Object,System.Object)
+extern void SR_Format_mDF22BF68931E654707A9C21CE2925F4C54FBF44C (void);
+// 0x0000000A System.String System.SR::Format(System.String,System.Object,System.Object,System.Object)
+extern void SR_Format_m8BC23E1A6FA032E9EC5C6AF1B3113DC6E7BEC37D (void);
+// 0x0000000B System.String System.SR::Format(System.String,System.Object[])
+extern void SR_Format_m47050611A32A1641C0F94B6950CDFD6A62FB55BC (void);
+// 0x0000000C System.String System.SR::Format(System.IFormatProvider,System.String,System.Object)
+extern void SR_Format_m3FD3F4D9FFA017A6E5477BF629C507564F4E07C9 (void);
+// 0x0000000D System.String System.SR::Format(System.IFormatProvider,System.String,System.Object,System.Object)
+extern void SR_Format_m21FE78DCD2374CB4194940B68D042FD7394985B2 (void);
+// 0x0000000E System.String System.SR::Format(System.IFormatProvider,System.String,System.Object,System.Object,System.Object)
+extern void SR_Format_m5F423A07215A23ABC9FD0C8447ED4DC09EB2C921 (void);
+// 0x0000000F System.String System.SR::Format(System.IFormatProvider,System.String,System.Object[])
+extern void SR_Format_m43C494AD077DFECDAA70E04277BCF9E9B8C05777 (void);
+// 0x00000010 System.Resources.ResourceManager System.SR::get_ResourceManager()
+extern void SR_get_ResourceManager_mC288B3AAC1525D85E0984E3CCD9AC5D13A6F5ADD (void);
+// 0x00000011 System.String System.SR::get_AmbiguousConstructorMatch()
+extern void SR_get_AmbiguousConstructorMatch_m93A52BB3362A7A39C2A03DCCFE9D809210B57A77 (void);
+// 0x00000012 System.String System.SR::get_CannotLocateImplementation()
+extern void SR_get_CannotLocateImplementation_m342B34BD488BEF6B71A123129EB00FA3EA2C6049 (void);
+// 0x00000013 System.String System.SR::get_CannotResolveService()
+extern void SR_get_CannotResolveService_m836519FC9028F240A36106F064CA3B437013D275 (void);
+// 0x00000014 System.String System.SR::get_NoConstructorMatch()
+extern void SR_get_NoConstructorMatch_mEDBB9FBE0BFF5CB821E38213CD4ADE28517BCBAE (void);
+// 0x00000015 System.String System.SR::get_NoServiceRegistered()
+extern void SR_get_NoServiceRegistered_mE298B1D15EDB2A81553D3FA15886061E7AF69AF1 (void);
+// 0x00000016 System.String System.SR::get_TryAddIndistinguishableTypeToEnumerable()
+extern void SR_get_TryAddIndistinguishableTypeToEnumerable_m4EFADF01B029D27B4CC497C9242D004BE0B81A69 (void);
+// 0x00000017 System.Boolean Microsoft.Extensions.Internal.ParameterDefaultValue::TryGetDefaultValue(System.Reflection.ParameterInfo,System.Object&)
+extern void ParameterDefaultValue_TryGetDefaultValue_m370E8D2C275716669D26E2E0DAD81C0200937DC0 (void);
+// 0x00000018 System.Void Microsoft.Extensions.Internal.ParameterDefaultValue::.ctor()
+extern void ParameterDefaultValue__ctor_m29DBD18F17037831B0F8B70B409637C52508DCB9 (void);
+// 0x00000019 System.Void Microsoft.Extensions.Internal.ParameterDefaultValue::.cctor()
+extern void ParameterDefaultValue__cctor_mD3979F88BEBD751912F738788D4E42836E6A5217 (void);
+// 0x0000001A TContainerBuilder Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1::CreateBuilder(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x0000001B System.IServiceProvider Microsoft.Extensions.DependencyInjection.IServiceProviderFactory`1::CreateServiceProvider(TContainerBuilder)
+// 0x0000001C System.IServiceProvider Microsoft.Extensions.DependencyInjection.IServiceScope::get_ServiceProvider()
+// 0x0000001D Microsoft.Extensions.DependencyInjection.IServiceScope Microsoft.Extensions.DependencyInjection.IServiceScopeFactory::CreateScope()
+// 0x0000001E System.Object Microsoft.Extensions.DependencyInjection.ISupportRequiredService::GetRequiredService(System.Type)
+// 0x0000001F Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Type)
+extern void ServiceCollectionServiceExtensions_AddTransient_m7EC51DDC588857373A8B543CBB657CEEC5613D53 (void);
+// 0x00000020 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceCollectionServiceExtensions_AddTransient_mC9BA5AC9F90B8897F3857D2FE1082AC1A660237E (void);
+// 0x00000021 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000022 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+extern void ServiceCollectionServiceExtensions_AddTransient_m4A7465212E1541FCA8E3330273B33B72F9E57DD2 (void);
+// 0x00000023 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000024 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TService>)
+// 0x00000025 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TImplementation>)
+// 0x00000026 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Type)
+extern void ServiceCollectionServiceExtensions_AddScoped_m06F7C8DE8CBCD15E2D34588FC508A9379DEEC5D5 (void);
+// 0x00000027 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceCollectionServiceExtensions_AddScoped_m40F2A1BF0A9335DA8420DC98C243449F75BE202F (void);
+// 0x00000028 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000029 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+extern void ServiceCollectionServiceExtensions_AddScoped_m407B3D3610F11F5718321754A54679BE438094A8 (void);
+// 0x0000002A Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x0000002B Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TService>)
+// 0x0000002C Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TImplementation>)
+// 0x0000002D Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Type)
+extern void ServiceCollectionServiceExtensions_AddSingleton_m79D7395A0CD88A334943E8551C81FF35C0A64427 (void);
+// 0x0000002E Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceCollectionServiceExtensions_AddSingleton_m6C879DDF30C37531BEBB0C7F35380368BCA9BE52 (void);
+// 0x0000002F Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000030 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+extern void ServiceCollectionServiceExtensions_AddSingleton_m2DD0593BDDD5EC8A57E7F5C0C1321DF2D14BB015 (void);
+// 0x00000031 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000032 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TService>)
+// 0x00000033 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TImplementation>)
+// 0x00000034 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Object)
+extern void ServiceCollectionServiceExtensions_AddSingleton_mCB9421CECFDFF3BD0BE39B4DC7721970FC81469D (void);
+// 0x00000035 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::AddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,TService)
+// 0x00000036 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::Add(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Type,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+extern void ServiceCollectionServiceExtensions_Add_m08B0ABDB33EAE09CFA9899B92B57E3A6F7A48F8E (void);
+// 0x00000037 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions::Add(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Func`2<System.IServiceProvider,System.Object>,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+extern void ServiceCollectionServiceExtensions_Add_m9A4A000D4840A276E2060000F1FEBAFFD64E93F3 (void);
+// 0x00000038 System.Void Microsoft.Extensions.DependencyInjection.ServiceDescriptor::.ctor(System.Type,System.Type,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+extern void ServiceDescriptor__ctor_m592858FB415C516259BBB29D16A32B58E3D11099 (void);
+// 0x00000039 System.Void Microsoft.Extensions.DependencyInjection.ServiceDescriptor::.ctor(System.Type,System.Object)
+extern void ServiceDescriptor__ctor_m29637B73EE269C7CD52FF9FFBA7B2108489D379F (void);
+// 0x0000003A System.Void Microsoft.Extensions.DependencyInjection.ServiceDescriptor::.ctor(System.Type,System.Func`2<System.IServiceProvider,System.Object>,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+extern void ServiceDescriptor__ctor_m0185D823DA2F1E3BFE03A16E77AA36E7903A718B (void);
+// 0x0000003B System.Void Microsoft.Extensions.DependencyInjection.ServiceDescriptor::.ctor(System.Type,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+extern void ServiceDescriptor__ctor_m6F11C7AB4521E69DBB53C1244236CBFCF37D178A (void);
+// 0x0000003C Microsoft.Extensions.DependencyInjection.ServiceLifetime Microsoft.Extensions.DependencyInjection.ServiceDescriptor::get_Lifetime()
+extern void ServiceDescriptor_get_Lifetime_mA7FC93C84333BE17621A6F14C0D7EE755CCEE614 (void);
+// 0x0000003D System.Type Microsoft.Extensions.DependencyInjection.ServiceDescriptor::get_ServiceType()
+extern void ServiceDescriptor_get_ServiceType_m08E9024CCAF229D1AEB53664344CD749131E6038 (void);
+// 0x0000003E System.Type Microsoft.Extensions.DependencyInjection.ServiceDescriptor::get_ImplementationType()
+extern void ServiceDescriptor_get_ImplementationType_m9130519BB3A6D0289F22B953E5F659EDC1214E92 (void);
+// 0x0000003F System.Object Microsoft.Extensions.DependencyInjection.ServiceDescriptor::get_ImplementationInstance()
+extern void ServiceDescriptor_get_ImplementationInstance_m04254E10026901B016856196459681E34A2A45F5 (void);
+// 0x00000040 System.Func`2<System.IServiceProvider,System.Object> Microsoft.Extensions.DependencyInjection.ServiceDescriptor::get_ImplementationFactory()
+extern void ServiceDescriptor_get_ImplementationFactory_mF88334ABD007BF02A92A99F9F9C5A5CB0713882D (void);
+// 0x00000041 System.String Microsoft.Extensions.DependencyInjection.ServiceDescriptor::ToString()
+extern void ServiceDescriptor_ToString_m2C5FEF1D7EB07EBFB4483CCB6E68947BD56F0879 (void);
+// 0x00000042 System.Type Microsoft.Extensions.DependencyInjection.ServiceDescriptor::GetImplementationType()
+extern void ServiceDescriptor_GetImplementationType_m805957DA69C42B21B4937555D04BCCB712B247D7 (void);
+// 0x00000043 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Transient()
+// 0x00000044 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Transient(System.Type,System.Type)
+extern void ServiceDescriptor_Transient_mF5E699D988ABCF74B96E4876FA39BF1B007C5C92 (void);
+// 0x00000045 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Transient(System.Func`2<System.IServiceProvider,TImplementation>)
+// 0x00000046 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Transient(System.Func`2<System.IServiceProvider,TService>)
+// 0x00000047 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Transient(System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceDescriptor_Transient_m8A0C40D7D0CE3983CFDBB06C785DD16543D8A301 (void);
+// 0x00000048 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Scoped()
+// 0x00000049 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Scoped(System.Type,System.Type)
+extern void ServiceDescriptor_Scoped_mEA1977021070EC0E67480312ADC7523FCB21E639 (void);
+// 0x0000004A Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Scoped(System.Func`2<System.IServiceProvider,TImplementation>)
+// 0x0000004B Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Scoped(System.Func`2<System.IServiceProvider,TService>)
+// 0x0000004C Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Scoped(System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceDescriptor_Scoped_m9F5B1BA7E5E14B8EFBFDFB911DEE8D26B01BD417 (void);
+// 0x0000004D Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Singleton()
+// 0x0000004E Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Singleton(System.Type,System.Type)
+extern void ServiceDescriptor_Singleton_m86AB0727EF84582F1781CA94F9A63DA3CB6FDC40 (void);
+// 0x0000004F Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Singleton(System.Func`2<System.IServiceProvider,TImplementation>)
+// 0x00000050 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Singleton(System.Func`2<System.IServiceProvider,TService>)
+// 0x00000051 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Singleton(System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceDescriptor_Singleton_m9B76E90F1D1291960D8D8472480869AF97DA0791 (void);
+// 0x00000052 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Singleton(TService)
+// 0x00000053 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Singleton(System.Type,System.Object)
+extern void ServiceDescriptor_Singleton_mC0CEA7E2026604D7A80CC79A502BCEB33B32D243 (void);
+// 0x00000054 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Describe(Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+// 0x00000055 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Describe(System.Type,System.Type,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+extern void ServiceDescriptor_Describe_m5EF2EEF51884152A77CEB40BA0BC107A4CBE5D10 (void);
+// 0x00000056 Microsoft.Extensions.DependencyInjection.ServiceDescriptor Microsoft.Extensions.DependencyInjection.ServiceDescriptor::Describe(System.Type,System.Func`2<System.IServiceProvider,System.Object>,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+extern void ServiceDescriptor_Describe_m673CD137D92037E7EBE45BA9666C91E6C5E7B9AD (void);
+// 0x00000057 T Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions::GetService(System.IServiceProvider)
+// 0x00000058 System.Object Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions::GetRequiredService(System.IServiceProvider,System.Type)
+extern void ServiceProviderServiceExtensions_GetRequiredService_mD0309B0B590BC2F6335ED88DC0BD4872095AC9D4 (void);
+// 0x00000059 T Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions::GetRequiredService(System.IServiceProvider)
+// 0x0000005A System.Collections.Generic.IEnumerable`1<T> Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions::GetServices(System.IServiceProvider)
+// 0x0000005B System.Collections.Generic.IEnumerable`1<System.Object> Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions::GetServices(System.IServiceProvider,System.Type)
+extern void ServiceProviderServiceExtensions_GetServices_m801847F651FE9EEEBC33D7F43960154F668855ED (void);
+// 0x0000005C Microsoft.Extensions.DependencyInjection.IServiceScope Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions::CreateScope(System.IServiceProvider)
+extern void ServiceProviderServiceExtensions_CreateScope_m9BBB55CAD85A53E8AA5F1ACEB95C3491F6528D3B (void);
+// 0x0000005D System.Object Microsoft.Extensions.DependencyInjection.ActivatorUtilities::CreateInstance(System.IServiceProvider,System.Type,System.Object[])
+extern void ActivatorUtilities_CreateInstance_mD7A5947AAF2D1EA0F6D1109CD2DA136B67F72DE2 (void);
+// 0x0000005E Microsoft.Extensions.DependencyInjection.ObjectFactory Microsoft.Extensions.DependencyInjection.ActivatorUtilities::CreateFactory(System.Type,System.Type[])
+extern void ActivatorUtilities_CreateFactory_mC62EF451A59984E2D9474906581D35BB501AC514 (void);
+// 0x0000005F T Microsoft.Extensions.DependencyInjection.ActivatorUtilities::CreateInstance(System.IServiceProvider,System.Object[])
+// 0x00000060 T Microsoft.Extensions.DependencyInjection.ActivatorUtilities::GetServiceOrCreateInstance(System.IServiceProvider)
+// 0x00000061 System.Object Microsoft.Extensions.DependencyInjection.ActivatorUtilities::GetServiceOrCreateInstance(System.IServiceProvider,System.Type)
+extern void ActivatorUtilities_GetServiceOrCreateInstance_m708C6804C372EA83843652653306ADB2889A90FA (void);
+// 0x00000062 System.Reflection.MethodInfo Microsoft.Extensions.DependencyInjection.ActivatorUtilities::GetMethodInfo(System.Linq.Expressions.Expression`1<T>)
+// 0x00000063 System.Object Microsoft.Extensions.DependencyInjection.ActivatorUtilities::GetService(System.IServiceProvider,System.Type,System.Type,System.Boolean)
+extern void ActivatorUtilities_GetService_m42BA3613B2F5E48E8A3DAF6839D5124887AE8E4F (void);
+// 0x00000064 System.Linq.Expressions.Expression Microsoft.Extensions.DependencyInjection.ActivatorUtilities::BuildFactoryExpression(System.Reflection.ConstructorInfo,System.Nullable`1<System.Int32>[],System.Linq.Expressions.Expression,System.Linq.Expressions.Expression)
+extern void ActivatorUtilities_BuildFactoryExpression_mB19B310C17B08DB6C1DB537F17F1493091E26D03 (void);
+// 0x00000065 System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilities::FindApplicableConstructor(System.Type,System.Type[],System.Reflection.ConstructorInfo&,System.Nullable`1<System.Int32>[]&)
+extern void ActivatorUtilities_FindApplicableConstructor_m27CA2D4F76EC772A99EEEF7DBADDEFCD45BA28D0 (void);
+// 0x00000066 System.Boolean Microsoft.Extensions.DependencyInjection.ActivatorUtilities::TryFindMatchingConstructor(System.Type,System.Type[],System.Reflection.ConstructorInfo&,System.Nullable`1<System.Int32>[]&)
+extern void ActivatorUtilities_TryFindMatchingConstructor_m98449B5B013BFED16FBDB569B8E152E2EB68F40A (void);
+// 0x00000067 System.Boolean Microsoft.Extensions.DependencyInjection.ActivatorUtilities::TryFindPreferredConstructor(System.Type,System.Type[],System.Reflection.ConstructorInfo&,System.Nullable`1<System.Int32>[]&)
+extern void ActivatorUtilities_TryFindPreferredConstructor_m0C820E5C6468CB241F05F58C481C06EFE51F255F (void);
+// 0x00000068 System.Boolean Microsoft.Extensions.DependencyInjection.ActivatorUtilities::TryCreateParameterMap(System.Reflection.ParameterInfo[],System.Type[],System.Nullable`1<System.Int32>[]&)
+extern void ActivatorUtilities_TryCreateParameterMap_m532EAC7558450CC267868211335007B40DCD62D4 (void);
+// 0x00000069 System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilities::ThrowMultipleCtorsMarkedWithAttributeException()
+extern void ActivatorUtilities_ThrowMultipleCtorsMarkedWithAttributeException_mAF9AAB9824D303633197F2DAD5522F21FAFA32E5 (void);
+// 0x0000006A System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilities::ThrowMarkedCtorDoesNotTakeAllProvidedArguments()
+extern void ActivatorUtilities_ThrowMarkedCtorDoesNotTakeAllProvidedArguments_mA823CD0B9CBD8AC882DF18D2B6EA4577373E1890 (void);
+// 0x0000006B System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilities::.cctor()
+extern void ActivatorUtilities__cctor_m9D0CCFAC9F905B28A7F39C8B0460357B2DA136E3 (void);
+// 0x0000006C System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilities/ConstructorMatcher::.ctor(System.Reflection.ConstructorInfo)
+extern void ConstructorMatcher__ctor_mD805E357DD45F90185A2164C151C6E6CF71ADCF5 (void);
+// 0x0000006D System.Int32 Microsoft.Extensions.DependencyInjection.ActivatorUtilities/ConstructorMatcher::Match(System.Object[])
+extern void ConstructorMatcher_Match_m30B5C1B863BE055DA0D1A6A02A39CF2B75799FAA (void);
+// 0x0000006E System.Object Microsoft.Extensions.DependencyInjection.ActivatorUtilities/ConstructorMatcher::CreateInstance(System.IServiceProvider)
+extern void ConstructorMatcher_CreateInstance_m146CD6120172527901F6DE8C689AA18652C5C493 (void);
+// 0x0000006F System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilities/<>c::.cctor()
+extern void U3CU3Ec__cctor_mFA2A3DEB7719E7A5664199CECC74DB7444E05571 (void);
+// 0x00000070 System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilities/<>c::.ctor()
+extern void U3CU3Ec__ctor_m2CE78F52061DA4A0B4C510BE113426BA4CDEBF48 (void);
+// 0x00000071 System.Void Microsoft.Extensions.DependencyInjection.ActivatorUtilitiesConstructorAttribute::.ctor()
+extern void ActivatorUtilitiesConstructorAttribute__ctor_m231BAA40A27EBEECBF8A87E9D82C1A53E0C3B521 (void);
+// 0x00000072 System.Void Microsoft.Extensions.DependencyInjection.ObjectFactory::.ctor(System.Object,System.IntPtr)
+extern void ObjectFactory__ctor_m8EAEED6EE6307D9063B3BAC1C8C4D38431B1BE37 (void);
+// 0x00000073 System.Object Microsoft.Extensions.DependencyInjection.ObjectFactory::Invoke(System.IServiceProvider,System.Object[])
+extern void ObjectFactory_Invoke_mC0D33CC815EBF382B1208241D0BF3D8804B4393C (void);
+// 0x00000074 System.IAsyncResult Microsoft.Extensions.DependencyInjection.ObjectFactory::BeginInvoke(System.IServiceProvider,System.Object[],System.AsyncCallback,System.Object)
+extern void ObjectFactory_BeginInvoke_m8AA2202DF532667218D7D0415E7C48833BC73C5D (void);
+// 0x00000075 System.Object Microsoft.Extensions.DependencyInjection.ObjectFactory::EndInvoke(System.IAsyncResult)
+extern void ObjectFactory_EndInvoke_mDB03B29C6382613E2BD4A996F3214BC208306DE6 (void);
+// 0x00000076 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::Add(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.DependencyInjection.ServiceDescriptor)
+extern void ServiceCollectionDescriptorExtensions_Add_mAC997DC3F3C4B295468FB8266380057502976DA3 (void);
+// 0x00000077 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::Add(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Collections.Generic.IEnumerable`1<Microsoft.Extensions.DependencyInjection.ServiceDescriptor>)
+extern void ServiceCollectionDescriptorExtensions_Add_m6145A6402F8B35EC63ED85CBADA008483E5A0A11 (void);
+// 0x00000078 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAdd(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.DependencyInjection.ServiceDescriptor)
+extern void ServiceCollectionDescriptorExtensions_TryAdd_mAC33FC3E48B34B37B1DAE5E130CD581031F53229 (void);
+// 0x00000079 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAdd(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Collections.Generic.IEnumerable`1<Microsoft.Extensions.DependencyInjection.ServiceDescriptor>)
+extern void ServiceCollectionDescriptorExtensions_TryAdd_mB415C05D07483CFE658E558CFBC2857D64FD0B19 (void);
+// 0x0000007A System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+extern void ServiceCollectionDescriptorExtensions_TryAddTransient_m08EC0350ADE863EBC53D1C6BCAABDDE098DBA8A2 (void);
+// 0x0000007B System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Type)
+extern void ServiceCollectionDescriptorExtensions_TryAddTransient_m644FCACABB98E32E98537A6A0BCA585A1B98CF88 (void);
+// 0x0000007C System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceCollectionDescriptorExtensions_TryAddTransient_m5A48A0D40A4A8E321060A636663F997D8E341A0E (void);
+// 0x0000007D System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x0000007E System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x0000007F System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddTransient(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TService>)
+// 0x00000080 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+extern void ServiceCollectionDescriptorExtensions_TryAddScoped_m6D027BBFB3381EE57151311D79B5EAE7F1F6D628 (void);
+// 0x00000081 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Type)
+extern void ServiceCollectionDescriptorExtensions_TryAddScoped_mE23BB804CB40FDBF2BD00FD2E7D08BD60F68D914 (void);
+// 0x00000082 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceCollectionDescriptorExtensions_TryAddScoped_mA6101C8AC3047E1F622D31A12056EF048F20835E (void);
+// 0x00000083 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000084 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000085 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddScoped(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TService>)
+// 0x00000086 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+extern void ServiceCollectionDescriptorExtensions_TryAddSingleton_m561B1BA6CD49A671555B063AD98CF3D7C1D99A6E (void);
+// 0x00000087 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Type)
+extern void ServiceCollectionDescriptorExtensions_TryAddSingleton_mF41CA40CF5D63EF979FBA03C9B28BD54746AA84A (void);
+// 0x00000088 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type,System.Func`2<System.IServiceProvider,System.Object>)
+extern void ServiceCollectionDescriptorExtensions_TryAddSingleton_mB8C12887F82FEBA1BE356730AB1433CA30870017 (void);
+// 0x00000089 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x0000008A System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x0000008B System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,TService)
+// 0x0000008C System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddSingleton(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Func`2<System.IServiceProvider,TService>)
+// 0x0000008D System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddEnumerable(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.DependencyInjection.ServiceDescriptor)
+extern void ServiceCollectionDescriptorExtensions_TryAddEnumerable_m8DFF67A4AC5EE5B045AB0BDA7AFBA82C5AF12DDB (void);
+// 0x0000008E System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::TryAddEnumerable(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Collections.Generic.IEnumerable`1<Microsoft.Extensions.DependencyInjection.ServiceDescriptor>)
+extern void ServiceCollectionDescriptorExtensions_TryAddEnumerable_m080B1307CDB0EF477D06E780ABEEB41C753E136D (void);
+// 0x0000008F Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::Replace(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.DependencyInjection.ServiceDescriptor)
+extern void ServiceCollectionDescriptorExtensions_Replace_m540958145822078E7917D4198EC4F5DDDEF1D99A (void);
+// 0x00000090 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::RemoveAll(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+// 0x00000091 Microsoft.Extensions.DependencyInjection.IServiceCollection Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions::RemoveAll(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Type)
+extern void ServiceCollectionDescriptorExtensions_RemoveAll_m5F037FEBD2946503A023B16E2E86739AF282A5D8 (void);
+// 0x00000092 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions/<>c__DisplayClass2_0::.ctor()
+extern void U3CU3Ec__DisplayClass2_0__ctor_m70F5839B8C428AC93E7F9FD16732B2FCAAD5666D (void);
+// 0x00000093 System.Boolean Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions/<>c__DisplayClass2_0::<TryAdd>b__0(Microsoft.Extensions.DependencyInjection.ServiceDescriptor)
+extern void U3CU3Ec__DisplayClass2_0_U3CTryAddU3Eb__0_m9F48D10811079E7943B87DA4EBCC09DD0F53CDB1 (void);
+// 0x00000094 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions/<>c__DisplayClass23_0::.ctor()
+extern void U3CU3Ec__DisplayClass23_0__ctor_m8C944CFC06EDAC94AE4A0C83A5CB3F641A6CC3F9 (void);
+// 0x00000095 System.Boolean Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions/<>c__DisplayClass23_0::<TryAddEnumerable>b__0(Microsoft.Extensions.DependencyInjection.ServiceDescriptor)
+extern void U3CU3Ec__DisplayClass23_0_U3CTryAddEnumerableU3Eb__0_mA04608CC3BB8CF872188AE38A458A6B6A7A900DA (void);
+// 0x00000096 System.Void Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions/<>c__DisplayClass25_0::.ctor()
+extern void U3CU3Ec__DisplayClass25_0__ctor_m195630A78C658238611CDB9232A05B0AD61ECC44 (void);
+// 0x00000097 System.Boolean Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionDescriptorExtensions/<>c__DisplayClass25_0::<Replace>b__0(Microsoft.Extensions.DependencyInjection.ServiceDescriptor)
+extern void U3CU3Ec__DisplayClass25_0_U3CReplaceU3Eb__0_m164910373DC12D90C9D2035F9F774E57D286D487 (void);
+static Il2CppMethodPointer s_methodPointers[151] = 
+{
+	EmbeddedAttribute__ctor_mA55DCEDC8DCC9A8BD91DBC8414ED09096C569258,
+	NullableAttribute__ctor_m8905906A4BE7D0497E35B7ACDE516A3AE7B5F64C,
+	NullableAttribute__ctor_mB40B6295AA4F3124B6976010DA10589E626D091A,
+	NullableContextAttribute__ctor_mE176E57C120C8789F415AAF677CD18416836391A,
+	NullablePublicOnlyAttribute__ctor_m4114175037AD5184C6E65721A179A8BDA8B737B7,
+	SR_UsingResourceKeys_mB6D8168AC3FE8E6628C9ABF53B0BC95847CB056D,
+	SR_GetResourceString_m97000FDF2658FB5A59008B560268BBC3F165C4D5,
+	SR_Format_mADD68C8D2C34BBB960E93A5BEF6600FCA482811C,
+	SR_Format_mDF22BF68931E654707A9C21CE2925F4C54FBF44C,
+	SR_Format_m8BC23E1A6FA032E9EC5C6AF1B3113DC6E7BEC37D,
+	SR_Format_m47050611A32A1641C0F94B6950CDFD6A62FB55BC,
+	SR_Format_m3FD3F4D9FFA017A6E5477BF629C507564F4E07C9,
+	SR_Format_m21FE78DCD2374CB4194940B68D042FD7394985B2,
+	SR_Format_m5F423A07215A23ABC9FD0C8447ED4DC09EB2C921,
+	SR_Format_m43C494AD077DFECDAA70E04277BCF9E9B8C05777,
+	SR_get_ResourceManager_mC288B3AAC1525D85E0984E3CCD9AC5D13A6F5ADD,
+	SR_get_AmbiguousConstructorMatch_m93A52BB3362A7A39C2A03DCCFE9D809210B57A77,
+	SR_get_CannotLocateImplementation_m342B34BD488BEF6B71A123129EB00FA3EA2C6049,
+	SR_get_CannotResolveService_m836519FC9028F240A36106F064CA3B437013D275,
+	SR_get_NoConstructorMatch_mEDBB9FBE0BFF5CB821E38213CD4ADE28517BCBAE,
+	SR_get_NoServiceRegistered_mE298B1D15EDB2A81553D3FA15886061E7AF69AF1,
+	SR_get_TryAddIndistinguishableTypeToEnumerable_m4EFADF01B029D27B4CC497C9242D004BE0B81A69,
+	ParameterDefaultValue_TryGetDefaultValue_m370E8D2C275716669D26E2E0DAD81C0200937DC0,
+	ParameterDefaultValue__ctor_m29DBD18F17037831B0F8B70B409637C52508DCB9,
+	ParameterDefaultValue__cctor_mD3979F88BEBD751912F738788D4E42836E6A5217,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	ServiceCollectionServiceExtensions_AddTransient_m7EC51DDC588857373A8B543CBB657CEEC5613D53,
+	ServiceCollectionServiceExtensions_AddTransient_mC9BA5AC9F90B8897F3857D2FE1082AC1A660237E,
+	NULL,
+	ServiceCollectionServiceExtensions_AddTransient_m4A7465212E1541FCA8E3330273B33B72F9E57DD2,
+	NULL,
+	NULL,
+	NULL,
+	ServiceCollectionServiceExtensions_AddScoped_m06F7C8DE8CBCD15E2D34588FC508A9379DEEC5D5,
+	ServiceCollectionServiceExtensions_AddScoped_m40F2A1BF0A9335DA8420DC98C243449F75BE202F,
+	NULL,
+	ServiceCollectionServiceExtensions_AddScoped_m407B3D3610F11F5718321754A54679BE438094A8,
+	NULL,
+	NULL,
+	NULL,
+	ServiceCollectionServiceExtensions_AddSingleton_m79D7395A0CD88A334943E8551C81FF35C0A64427,
+	ServiceCollectionServiceExtensions_AddSingleton_m6C879DDF30C37531BEBB0C7F35380368BCA9BE52,
+	NULL,
+	ServiceCollectionServiceExtensions_AddSingleton_m2DD0593BDDD5EC8A57E7F5C0C1321DF2D14BB015,
+	NULL,
+	NULL,
+	NULL,
+	ServiceCollectionServiceExtensions_AddSingleton_mCB9421CECFDFF3BD0BE39B4DC7721970FC81469D,
+	NULL,
+	ServiceCollectionServiceExtensions_Add_m08B0ABDB33EAE09CFA9899B92B57E3A6F7A48F8E,
+	ServiceCollectionServiceExtensions_Add_m9A4A000D4840A276E2060000F1FEBAFFD64E93F3,
+	ServiceDescriptor__ctor_m592858FB415C516259BBB29D16A32B58E3D11099,
+	ServiceDescriptor__ctor_m29637B73EE269C7CD52FF9FFBA7B2108489D379F,
+	ServiceDescriptor__ctor_m0185D823DA2F1E3BFE03A16E77AA36E7903A718B,
+	ServiceDescriptor__ctor_m6F11C7AB4521E69DBB53C1244236CBFCF37D178A,
+	ServiceDescriptor_get_Lifetime_mA7FC93C84333BE17621A6F14C0D7EE755CCEE614,
+	ServiceDescriptor_get_ServiceType_m08E9024CCAF229D1AEB53664344CD749131E6038,
+	ServiceDescriptor_get_ImplementationType_m9130519BB3A6D0289F22B953E5F659EDC1214E92,
+	ServiceDescriptor_get_ImplementationInstance_m04254E10026901B016856196459681E34A2A45F5,
+	ServiceDescriptor_get_ImplementationFactory_mF88334ABD007BF02A92A99F9F9C5A5CB0713882D,
+	ServiceDescriptor_ToString_m2C5FEF1D7EB07EBFB4483CCB6E68947BD56F0879,
+	ServiceDescriptor_GetImplementationType_m805957DA69C42B21B4937555D04BCCB712B247D7,
+	NULL,
+	ServiceDescriptor_Transient_mF5E699D988ABCF74B96E4876FA39BF1B007C5C92,
+	NULL,
+	NULL,
+	ServiceDescriptor_Transient_m8A0C40D7D0CE3983CFDBB06C785DD16543D8A301,
+	NULL,
+	ServiceDescriptor_Scoped_mEA1977021070EC0E67480312ADC7523FCB21E639,
+	NULL,
+	NULL,
+	ServiceDescriptor_Scoped_m9F5B1BA7E5E14B8EFBFDFB911DEE8D26B01BD417,
+	NULL,
+	ServiceDescriptor_Singleton_m86AB0727EF84582F1781CA94F9A63DA3CB6FDC40,
+	NULL,
+	NULL,
+	ServiceDescriptor_Singleton_m9B76E90F1D1291960D8D8472480869AF97DA0791,
+	NULL,
+	ServiceDescriptor_Singleton_mC0CEA7E2026604D7A80CC79A502BCEB33B32D243,
+	NULL,
+	ServiceDescriptor_Describe_m5EF2EEF51884152A77CEB40BA0BC107A4CBE5D10,
+	ServiceDescriptor_Describe_m673CD137D92037E7EBE45BA9666C91E6C5E7B9AD,
+	NULL,
+	ServiceProviderServiceExtensions_GetRequiredService_mD0309B0B590BC2F6335ED88DC0BD4872095AC9D4,
+	NULL,
+	NULL,
+	ServiceProviderServiceExtensions_GetServices_m801847F651FE9EEEBC33D7F43960154F668855ED,
+	ServiceProviderServiceExtensions_CreateScope_m9BBB55CAD85A53E8AA5F1ACEB95C3491F6528D3B,
+	ActivatorUtilities_CreateInstance_mD7A5947AAF2D1EA0F6D1109CD2DA136B67F72DE2,
+	ActivatorUtilities_CreateFactory_mC62EF451A59984E2D9474906581D35BB501AC514,
+	NULL,
+	NULL,
+	ActivatorUtilities_GetServiceOrCreateInstance_m708C6804C372EA83843652653306ADB2889A90FA,
+	NULL,
+	ActivatorUtilities_GetService_m42BA3613B2F5E48E8A3DAF6839D5124887AE8E4F,
+	ActivatorUtilities_BuildFactoryExpression_mB19B310C17B08DB6C1DB537F17F1493091E26D03,
+	ActivatorUtilities_FindApplicableConstructor_m27CA2D4F76EC772A99EEEF7DBADDEFCD45BA28D0,
+	ActivatorUtilities_TryFindMatchingConstructor_m98449B5B013BFED16FBDB569B8E152E2EB68F40A,
+	ActivatorUtilities_TryFindPreferredConstructor_m0C820E5C6468CB241F05F58C481C06EFE51F255F,
+	ActivatorUtilities_TryCreateParameterMap_m532EAC7558450CC267868211335007B40DCD62D4,
+	ActivatorUtilities_ThrowMultipleCtorsMarkedWithAttributeException_mAF9AAB9824D303633197F2DAD5522F21FAFA32E5,
+	ActivatorUtilities_ThrowMarkedCtorDoesNotTakeAllProvidedArguments_mA823CD0B9CBD8AC882DF18D2B6EA4577373E1890,
+	ActivatorUtilities__cctor_m9D0CCFAC9F905B28A7F39C8B0460357B2DA136E3,
+	ConstructorMatcher__ctor_mD805E357DD45F90185A2164C151C6E6CF71ADCF5,
+	ConstructorMatcher_Match_m30B5C1B863BE055DA0D1A6A02A39CF2B75799FAA,
+	ConstructorMatcher_CreateInstance_m146CD6120172527901F6DE8C689AA18652C5C493,
+	U3CU3Ec__cctor_mFA2A3DEB7719E7A5664199CECC74DB7444E05571,
+	U3CU3Ec__ctor_m2CE78F52061DA4A0B4C510BE113426BA4CDEBF48,
+	ActivatorUtilitiesConstructorAttribute__ctor_m231BAA40A27EBEECBF8A87E9D82C1A53E0C3B521,
+	ObjectFactory__ctor_m8EAEED6EE6307D9063B3BAC1C8C4D38431B1BE37,
+	ObjectFactory_Invoke_mC0D33CC815EBF382B1208241D0BF3D8804B4393C,
+	ObjectFactory_BeginInvoke_m8AA2202DF532667218D7D0415E7C48833BC73C5D,
+	ObjectFactory_EndInvoke_mDB03B29C6382613E2BD4A996F3214BC208306DE6,
+	ServiceCollectionDescriptorExtensions_Add_mAC997DC3F3C4B295468FB8266380057502976DA3,
+	ServiceCollectionDescriptorExtensions_Add_m6145A6402F8B35EC63ED85CBADA008483E5A0A11,
+	ServiceCollectionDescriptorExtensions_TryAdd_mAC33FC3E48B34B37B1DAE5E130CD581031F53229,
+	ServiceCollectionDescriptorExtensions_TryAdd_mB415C05D07483CFE658E558CFBC2857D64FD0B19,
+	ServiceCollectionDescriptorExtensions_TryAddTransient_m08EC0350ADE863EBC53D1C6BCAABDDE098DBA8A2,
+	ServiceCollectionDescriptorExtensions_TryAddTransient_m644FCACABB98E32E98537A6A0BCA585A1B98CF88,
+	ServiceCollectionDescriptorExtensions_TryAddTransient_m5A48A0D40A4A8E321060A636663F997D8E341A0E,
+	NULL,
+	NULL,
+	NULL,
+	ServiceCollectionDescriptorExtensions_TryAddScoped_m6D027BBFB3381EE57151311D79B5EAE7F1F6D628,
+	ServiceCollectionDescriptorExtensions_TryAddScoped_mE23BB804CB40FDBF2BD00FD2E7D08BD60F68D914,
+	ServiceCollectionDescriptorExtensions_TryAddScoped_mA6101C8AC3047E1F622D31A12056EF048F20835E,
+	NULL,
+	NULL,
+	NULL,
+	ServiceCollectionDescriptorExtensions_TryAddSingleton_m561B1BA6CD49A671555B063AD98CF3D7C1D99A6E,
+	ServiceCollectionDescriptorExtensions_TryAddSingleton_mF41CA40CF5D63EF979FBA03C9B28BD54746AA84A,
+	ServiceCollectionDescriptorExtensions_TryAddSingleton_mB8C12887F82FEBA1BE356730AB1433CA30870017,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	ServiceCollectionDescriptorExtensions_TryAddEnumerable_m8DFF67A4AC5EE5B045AB0BDA7AFBA82C5AF12DDB,
+	ServiceCollectionDescriptorExtensions_TryAddEnumerable_m080B1307CDB0EF477D06E780ABEEB41C753E136D,
+	ServiceCollectionDescriptorExtensions_Replace_m540958145822078E7917D4198EC4F5DDDEF1D99A,
+	NULL,
+	ServiceCollectionDescriptorExtensions_RemoveAll_m5F037FEBD2946503A023B16E2E86739AF282A5D8,
+	U3CU3Ec__DisplayClass2_0__ctor_m70F5839B8C428AC93E7F9FD16732B2FCAAD5666D,
+	U3CU3Ec__DisplayClass2_0_U3CTryAddU3Eb__0_m9F48D10811079E7943B87DA4EBCC09DD0F53CDB1,
+	U3CU3Ec__DisplayClass23_0__ctor_m8C944CFC06EDAC94AE4A0C83A5CB3F641A6CC3F9,
+	U3CU3Ec__DisplayClass23_0_U3CTryAddEnumerableU3Eb__0_mA04608CC3BB8CF872188AE38A458A6B6A7A900DA,
+	U3CU3Ec__DisplayClass25_0__ctor_m195630A78C658238611CDB9232A05B0AD61ECC44,
+	U3CU3Ec__DisplayClass25_0_U3CReplaceU3Eb__0_m164910373DC12D90C9D2035F9F774E57D286D487,
+};
+extern void ConstructorMatcher__ctor_mD805E357DD45F90185A2164C151C6E6CF71ADCF5_AdjustorThunk (void);
+extern void ConstructorMatcher_Match_m30B5C1B863BE055DA0D1A6A02A39CF2B75799FAA_AdjustorThunk (void);
+extern void ConstructorMatcher_CreateInstance_m146CD6120172527901F6DE8C689AA18652C5C493_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[3] = 
+{
+	{ 0x0600006C, ConstructorMatcher__ctor_mD805E357DD45F90185A2164C151C6E6CF71ADCF5_AdjustorThunk },
+	{ 0x0600006D, ConstructorMatcher_Match_m30B5C1B863BE055DA0D1A6A02A39CF2B75799FAA_AdjustorThunk },
+	{ 0x0600006E, ConstructorMatcher_CreateInstance_m146CD6120172527901F6DE8C689AA18652C5C493_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[151] = 
+{
+	9469,
+	7820,
+	7772,
+	7820,
+	7820,
+	13687,
+	11940,
+	11940,
+	11178,
+	10685,
+	11940,
+	11178,
+	10685,
+	10202,
+	11178,
+	13665,
+	13665,
+	13665,
+	13665,
+	13665,
+	13665,
+	13665,
+	12190,
+	9469,
+	13700,
+	-1,
+	-1,
+	9340,
+	9340,
+	6103,
+	11178,
+	11178,
+	-1,
+	11940,
+	-1,
+	-1,
+	-1,
+	11178,
+	11178,
+	-1,
+	11940,
+	-1,
+	-1,
+	-1,
+	11178,
+	11178,
+	-1,
+	11940,
+	-1,
+	-1,
+	-1,
+	11178,
+	-1,
+	10684,
+	10684,
+	2508,
+	4493,
+	2508,
+	4481,
+	9280,
+	9340,
+	9340,
+	9340,
+	9340,
+	9340,
+	9340,
+	-1,
+	11940,
+	-1,
+	-1,
+	11940,
+	-1,
+	11940,
+	-1,
+	-1,
+	11940,
+	-1,
+	11940,
+	-1,
+	-1,
+	11940,
+	-1,
+	11940,
+	-1,
+	11177,
+	11177,
+	-1,
+	11940,
+	-1,
+	-1,
+	11940,
+	13219,
+	11178,
+	11940,
+	-1,
+	-1,
+	11940,
+	-1,
+	10686,
+	10685,
+	10895,
+	10784,
+	10784,
+	11280,
+	13700,
+	13700,
+	13700,
+	7772,
+	5696,
+	6103,
+	13700,
+	9469,
+	9469,
+	4483,
+	3216,
+	1311,
+	6103,
+	11940,
+	11940,
+	12497,
+	12497,
+	12497,
+	11465,
+	11465,
+	-1,
+	-1,
+	-1,
+	12497,
+	11465,
+	11465,
+	-1,
+	-1,
+	-1,
+	12497,
+	11465,
+	11465,
+	-1,
+	-1,
+	-1,
+	-1,
+	12497,
+	12497,
+	11940,
+	-1,
+	11940,
+	9469,
+	6811,
+	9469,
+	6811,
+	9469,
+	6811,
+};
+static const Il2CppTokenRangePair s_rgctxIndices[40] = 
+{
+	{ 0x06000021, { 0, 2 } },
+	{ 0x06000023, { 2, 1 } },
+	{ 0x06000024, { 3, 1 } },
+	{ 0x06000025, { 4, 1 } },
+	{ 0x06000028, { 5, 2 } },
+	{ 0x0600002A, { 7, 1 } },
+	{ 0x0600002B, { 8, 1 } },
+	{ 0x0600002C, { 9, 1 } },
+	{ 0x0600002F, { 10, 2 } },
+	{ 0x06000031, { 12, 1 } },
+	{ 0x06000032, { 13, 1 } },
+	{ 0x06000033, { 14, 1 } },
+	{ 0x06000035, { 15, 2 } },
+	{ 0x06000043, { 17, 1 } },
+	{ 0x06000045, { 18, 1 } },
+	{ 0x06000046, { 19, 1 } },
+	{ 0x06000048, { 20, 1 } },
+	{ 0x0600004A, { 21, 1 } },
+	{ 0x0600004B, { 22, 1 } },
+	{ 0x0600004D, { 23, 1 } },
+	{ 0x0600004F, { 24, 1 } },
+	{ 0x06000050, { 25, 1 } },
+	{ 0x06000052, { 26, 2 } },
+	{ 0x06000054, { 28, 2 } },
+	{ 0x06000057, { 30, 2 } },
+	{ 0x06000059, { 32, 2 } },
+	{ 0x0600005A, { 34, 1 } },
+	{ 0x0600005F, { 35, 2 } },
+	{ 0x06000060, { 37, 2 } },
+	{ 0x0600007D, { 39, 1 } },
+	{ 0x0600007E, { 40, 2 } },
+	{ 0x0600007F, { 42, 1 } },
+	{ 0x06000083, { 43, 1 } },
+	{ 0x06000084, { 44, 2 } },
+	{ 0x06000085, { 46, 1 } },
+	{ 0x06000089, { 47, 1 } },
+	{ 0x0600008A, { 48, 2 } },
+	{ 0x0600008B, { 50, 2 } },
+	{ 0x0600008C, { 52, 1 } },
+	{ 0x06000090, { 53, 1 } },
+};
+static const Il2CppRGCTXDefinition s_rgctxValues[54] = 
+{
+	{ (Il2CppRGCTXDataType)1, 1350 },
+	{ (Il2CppRGCTXDataType)1, 2649 },
+	{ (Il2CppRGCTXDataType)1, 1016 },
+	{ (Il2CppRGCTXDataType)1, 1017 },
+	{ (Il2CppRGCTXDataType)1, 1351 },
+	{ (Il2CppRGCTXDataType)1, 1346 },
+	{ (Il2CppRGCTXDataType)1, 2645 },
+	{ (Il2CppRGCTXDataType)1, 1011 },
+	{ (Il2CppRGCTXDataType)1, 1012 },
+	{ (Il2CppRGCTXDataType)1, 1347 },
+	{ (Il2CppRGCTXDataType)1, 1348 },
+	{ (Il2CppRGCTXDataType)1, 2647 },
+	{ (Il2CppRGCTXDataType)1, 1013 },
+	{ (Il2CppRGCTXDataType)1, 1014 },
+	{ (Il2CppRGCTXDataType)1, 1349 },
+	{ (Il2CppRGCTXDataType)2, 1015 },
+	{ (Il2CppRGCTXDataType)1, 1015 },
+	{ (Il2CppRGCTXDataType)3, 108894 },
+	{ (Il2CppRGCTXDataType)1, 1358 },
+	{ (Il2CppRGCTXDataType)1, 1021 },
+	{ (Il2CppRGCTXDataType)3, 108892 },
+	{ (Il2CppRGCTXDataType)1, 1354 },
+	{ (Il2CppRGCTXDataType)1, 1018 },
+	{ (Il2CppRGCTXDataType)3, 108893 },
+	{ (Il2CppRGCTXDataType)1, 1356 },
+	{ (Il2CppRGCTXDataType)1, 1019 },
+	{ (Il2CppRGCTXDataType)2, 1020 },
+	{ (Il2CppRGCTXDataType)1, 1020 },
+	{ (Il2CppRGCTXDataType)1, 1352 },
+	{ (Il2CppRGCTXDataType)1, 2651 },
+	{ (Il2CppRGCTXDataType)1, 1024 },
+	{ (Il2CppRGCTXDataType)2, 1024 },
+	{ (Il2CppRGCTXDataType)1, 1023 },
+	{ (Il2CppRGCTXDataType)2, 1023 },
+	{ (Il2CppRGCTXDataType)3, 108958 },
+	{ (Il2CppRGCTXDataType)1, 36 },
+	{ (Il2CppRGCTXDataType)2, 36 },
+	{ (Il2CppRGCTXDataType)1, 37 },
+	{ (Il2CppRGCTXDataType)2, 37 },
+	{ (Il2CppRGCTXDataType)1, 1009 },
+	{ (Il2CppRGCTXDataType)1, 1345 },
+	{ (Il2CppRGCTXDataType)1, 2644 },
+	{ (Il2CppRGCTXDataType)3, 108910 },
+	{ (Il2CppRGCTXDataType)1, 1004 },
+	{ (Il2CppRGCTXDataType)1, 1343 },
+	{ (Il2CppRGCTXDataType)1, 2642 },
+	{ (Il2CppRGCTXDataType)3, 108897 },
+	{ (Il2CppRGCTXDataType)1, 1006 },
+	{ (Il2CppRGCTXDataType)1, 1344 },
+	{ (Il2CppRGCTXDataType)1, 2643 },
+	{ (Il2CppRGCTXDataType)2, 1008 },
+	{ (Il2CppRGCTXDataType)1, 1008 },
+	{ (Il2CppRGCTXDataType)3, 108904 },
+	{ (Il2CppRGCTXDataType)1, 1003 },
+};
+extern const CustomAttributesCacheGenerator g_Microsoft_Extensions_DependencyInjection_Abstractions_AttributeGenerators[];
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Microsoft_Extensions_DependencyInjection_Abstractions_CodeGenModule;
+const Il2CppCodeGenModule g_Microsoft_Extensions_DependencyInjection_Abstractions_CodeGenModule = 
+{
+	"Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+	151,
+	s_methodPointers,
+	3,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	40,
+	s_rgctxIndices,
+	54,
+	s_rgctxValues,
+	NULL,
+	g_Microsoft_Extensions_DependencyInjection_Abstractions_AttributeGenerators,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
