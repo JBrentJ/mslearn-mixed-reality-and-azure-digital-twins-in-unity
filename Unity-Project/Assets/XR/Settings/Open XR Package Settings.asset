@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c8f1ce8139888c4ab621f6b3c8bb558, type: 3}
   m_Name: MotionControllerFeaturePlugin Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Motion Controller Model
   version: 1.0.0
   featureIdInternal: com.microsoft.openxr.feature.controller
@@ -964,8 +964,8 @@ MonoBehaviour:
   - {fileID: 3565721219017755530}
   - {fileID: 1870555857435584455}
   - {fileID: -281687276841945673}
-  - {fileID: 4725973864265124071}
   - {fileID: 3436530196003144160}
+  - {fileID: 4725973864265124071}
   - {fileID: -3393883568731739546}
   m_renderMode: 1
   m_depthSubmissionMode: 0
@@ -982,23 +982,23 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
+  - {fileID: -3479194989959583604}
   - {fileID: 1531893483889604754}
+  - {fileID: 6592046564631436384}
   - {fileID: 4188277996084297558}
   - {fileID: 3128028973606634535}
+  - {fileID: 8097170650319254599}
   - {fileID: -2597699480357850376}
   - {fileID: 5874380603294059465}
   - {fileID: 3265301685121816968}
   - {fileID: -3222966325087212292}
   - {fileID: 4637560881114951733}
-  - {fileID: 8097170650319254599}
   - {fileID: 7616392440173013037}
   - {fileID: 3422248855414823161}
   - {fileID: -7715727262448041797}
   - {fileID: 7064903131781541507}
   - {fileID: -5880172502650916744}
   - {fileID: -2032165970755933375}
-  - {fileID: 6592046564631436384}
-  - {fileID: -3479194989959583604}
   m_renderMode: 1
   m_depthSubmissionMode: 2
 --- !u!114 &3128028973606634535
@@ -1242,7 +1242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c8f1ce8139888c4ab621f6b3c8bb558, type: 3}
   m_Name: MotionControllerFeaturePlugin WSA
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Motion Controller Model
   version: 1.0.0
   featureIdInternal: com.microsoft.openxr.feature.controller
@@ -1293,20 +1293,20 @@ MonoBehaviour:
   m_Name: Metro
   m_EditorClassIdentifier: 
   features:
+  - {fileID: 634819212843874126}
   - {fileID: -9137875128619818762}
   - {fileID: 8378475362958060091}
+  - {fileID: -5057649109456983287}
+  - {fileID: 3350391598572684283}
+  - {fileID: 7466749001184645882}
   - {fileID: -8272790887467850432}
   - {fileID: 8003906574897671036}
   - {fileID: 6835502267326567387}
   - {fileID: 6559522467453755337}
-  - {fileID: -6488498369114956048}
-  - {fileID: -5899683744601896354}
-  - {fileID: 7466749001184645882}
-  - {fileID: -5057649109456983287}
-  - {fileID: 3350391598572684283}
   - {fileID: 4769221078263391777}
-  - {fileID: 634819212843874126}
+  - {fileID: -6488498369114956048}
   - {fileID: -5050196125758538962}
+  - {fileID: -5899683744601896354}
   m_renderMode: 1
   m_depthSubmissionMode: 1
 --- !u!114 &5829664324112618222

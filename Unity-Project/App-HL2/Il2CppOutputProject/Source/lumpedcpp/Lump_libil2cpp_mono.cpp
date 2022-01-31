@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\mono\MonoPosixHelper.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"

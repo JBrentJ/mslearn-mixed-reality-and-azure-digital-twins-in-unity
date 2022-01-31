@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 975057b4fdcfb8142b3080d19a5cc712, type: 3}
-  m_Name: OpenXR Editor Settings
+  m_Script: {fileID: 11500000, guid: 45b0089a7785abf4f908eb77852f8a71, type: 3}
+  m_Name: SpatialAnchorConfig
   m_EditorClassIdentifier: 
-  Keys: 0e00000001000000
-  Values:
-  - featureSets:
-    - com.microsoft.openxr.featureset.hololens
-  - featureSets:
-    - com.microsoft.openxr.featureset.wmr
+  authenticationMode: 0
+  spatialAnchorsAccountId: 
+  spatialAnchorsAccountKey: 
+  spatialAnchorsAccountDomain: 
+  clientId: 
+  tenantId: 

@@ -246,20 +246,15 @@
       <Filter>Data\UnitySubsystems\UnityOpenXR</Filter>
     </None>
     <None Include="$(MSBuildThisFileDirectory)AudioPluginMicrosoftSpatializer.dll" />
-    <None Include="$(MSBuildThisFileDirectory)AudioPluginMicrosoftSpatializer.pdb" />
     <None Include="$(MSBuildThisFileDirectory)GpuStats.dll" />
-    <None Include="$(MSBuildThisFileDirectory)GpuStats.pdb" />
     <None Include="$(MSBuildThisFileDirectory)MicrosoftGeospatialDecompressionNative.dll" />
-    <None Include="$(MSBuildThisFileDirectory)MicrosoftGeospatialDecompressionNative.pdb" />
-    <None Include="$(MSBuildThisFileDirectory)openxr_loader.dll" />
-    <None Include="$(MSBuildThisFileDirectory)openxr_loader.pdb" />
     <None Include="$(MSBuildThisFileDirectory)PlaneFinding.dll" />
-    <None Include="$(MSBuildThisFileDirectory)PlaneFinding.pdb" />
-    <None Include="$(MSBuildThisFileDirectory)UnityOpenXR.dll" />
-    <None Include="$(MSBuildThisFileDirectory)UnityOpenXR.pdb" />
     <None Include="$(MSBuildThisFileDirectory)Microsoft.MixedReality.Input.dll" />
-    <None Include="$(MSBuildThisFileDirectory)Microsoft.MixedReality.Input.pdb" />
-    <None Include="$(MSBuildThisFileDirectory)MicrosoftOpenXRPlugin.dll" />
-    <None Include="$(MSBuildThisFileDirectory)MicrosoftOpenXRPlugin.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(OutDir)GameAssembly.dll" />
+    <None Include="$(OutDir)GameAssembly.pdb" />
+    <None Include="$(UnityWSAPlayerDir)Players\UAP\il2cpp\$(PlatformTarget)\$(UnityPlayerConfiguration)\baselib.dll" />
+    <None Include="$(UnityWSAPlayerDir)Players\UAP\il2cpp\$(PlatformTarget)\$(UnityPlayerConfiguration)\baselib_UAP_$(PlatformTarget)_$(Configuration)_il2cpp.pdb" />
   </ItemGroup>
 </Project>

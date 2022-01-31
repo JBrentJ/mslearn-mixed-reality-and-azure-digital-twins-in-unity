@@ -1,0 +1,8 @@
+#include "il2cpp-config.h"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\BlobReader.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\Debugger.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeDelegateMethodCache.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeSymbol.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\VmStringUtils.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\icalls\mscorlib\System.Threading\Interlocked.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\icalls\mscorlib\System\Math.cpp"

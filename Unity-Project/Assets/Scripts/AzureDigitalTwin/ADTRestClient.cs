@@ -7,8 +7,8 @@ namespace BladeMR.ADT
 {
     using Assets.Scripts.AzureDigitalTwin;
     using Events;
-    using Newtonsoft.Json;
-    using Newtonsoft.Json.Linq;
+    //using Newtonsoft.Json;
+    //using Newtonsoft.Json.Linq;
     using System;
     using System.Net;
     using System.Net.Http;

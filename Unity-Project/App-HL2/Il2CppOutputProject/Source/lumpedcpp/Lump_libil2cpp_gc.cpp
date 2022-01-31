@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\BoehmGC.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GCHandle.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GarbageCollector.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\NullGC.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrier.cpp"
+#include "C:\GitHub\mslearn-mr-adt-in-unity\Unity-Project\App-HL2\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrierValidation.cpp"

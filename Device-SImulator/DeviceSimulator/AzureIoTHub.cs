@@ -17,8 +17,8 @@ namespace DeviceSimulator
         /// Please replace with correct connection string value
         /// The connection string could be got from Azure IoT Hub -> Shared access policies -> iothubowner -> Connection String:
         /// </summary>
-        private const string iotHubConnectionString = "";
-        private const string adtInstanceUrl = "";
+        private const string iotHubConnectionString = "HostName=blade3Hubo4jgosov5w.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=K1gezwG7cQvm/ZzyhiaafGYuNk+54n6sfUxlDatjInI=";
+        private const string adtInstanceUrl = "https://blade3adto4jgosov5w.api.eus.digitaltwins.azure.net";
         private const string alertTurbineId = "T102";
         private const string alertVariableName = "Alert";
         private const string alertDescription = "Light icing (rotor bl. ice sensor)";
