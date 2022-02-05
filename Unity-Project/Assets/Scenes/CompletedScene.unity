@@ -180,7 +180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1145582944917196436, guid: 9ffca06bacfb2a348b5a5fe7b6ccadcf, type: 3}
       propertyPath: url
-      value: https://blade3funcappo4jgosov5w.azurewebsites.net/api
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1145582944917196437, guid: 9ffca06bacfb2a348b5a5fe7b6ccadcf, type: 3}
       propertyPath: m_RootOrder
